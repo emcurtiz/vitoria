@@ -1,0 +1,42 @@
+img {
+  height: 200px;
+  width: 310px;
+}
+
+.clickablemap {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickablemap:hover {
+  text-decoration: underline;
+}
+
+.clickablesquare {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickablesquare:hover {
+  text-decoration: underline;
+}
+
+.clickablefiesta {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickablefiesta:hover {
+  text-decoration: underline;
+}
+#map-hidden {
+  display: none;
+}
+
+#square-hidden {
+  display:none;
+}
+
+#fiesta-hidden {
+  display:none;
+}
